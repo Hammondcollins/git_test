@@ -1,4 +1,4 @@
 # git_test 
 Hello Odin
- Let make thus work
+ Let make this work
  
